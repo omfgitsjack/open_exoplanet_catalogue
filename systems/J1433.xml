@@ -1,0 +1,17 @@
+<system>
+	<name>J1433</name>
+	<rightascension>14 33 18</rightascension>
+	<declination>+10 11 23</declination>
+	<star>
+		<name>J1433</name>
+		<mass errorminus="0.07" errorplus="0.07">0.8</mass>
+		<temperature errorminus="200.0" errorplus="200.0">13200.0</temperature>
+		<planet>
+			<name>J1433 b</name>
+			<inclination>84.36</inclination>
+			<period>0.054</period>
+			<mass errorminus="0.7" errorplus="0.7">57.1</mass>
+			<temperature errorminus="[]" errorplus="[]" />
+		</planet>
+	</star>
+</system>
